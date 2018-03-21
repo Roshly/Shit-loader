@@ -1,0 +1,15 @@
+d:\documents\visual studio 2017\Projects\PractiveLoader\PractiveLoader\obj\Debug\PractiveLoader.vbprojResolveAssemblyReference.cache
+d:\documents\visual studio 2017\Projects\PractiveLoader\PractiveLoader\obj\Debug\PractiveLoader.Form1.resources
+d:\documents\visual studio 2017\Projects\PractiveLoader\PractiveLoader\obj\Debug\PractiveLoader.Resources.resources
+d:\documents\visual studio 2017\Projects\PractiveLoader\PractiveLoader\obj\Debug\PractiveLoader.vbproj.GenerateResource.Cache
+d:\documents\visual studio 2017\Projects\PractiveLoader\PractiveLoader\bin\Debug\PractiveLoader.exe.config
+d:\documents\visual studio 2017\Projects\PractiveLoader\PractiveLoader\bin\Debug\PractiveLoader.exe
+d:\documents\visual studio 2017\Projects\PractiveLoader\PractiveLoader\bin\Debug\PractiveLoader.pdb
+d:\documents\visual studio 2017\Projects\PractiveLoader\PractiveLoader\bin\Debug\PractiveLoader.xml
+d:\documents\visual studio 2017\Projects\PractiveLoader\PractiveLoader\obj\Debug\PractiveLoader.exe
+d:\documents\visual studio 2017\Projects\PractiveLoader\PractiveLoader\obj\Debug\PractiveLoader.xml
+d:\documents\visual studio 2017\Projects\PractiveLoader\PractiveLoader\obj\Debug\PractiveLoader.pdb
+d:\documents\visual studio 2017\Projects\PractiveLoader\PractiveLoader\obj\Debug\PractiveLoader.Form2.resources
+d:\documents\visual studio 2017\Projects\PractiveLoader\PractiveLoader\obj\Debug\SanityFramework.Form1.resources
+d:\documents\visual studio 2017\Projects\PractiveLoader\PractiveLoader\obj\Debug\SanityFramework.Form2.resources
+d:\documents\visual studio 2017\Projects\PractiveLoader\PractiveLoader\obj\Debug\SanityFramework.Resources.resources

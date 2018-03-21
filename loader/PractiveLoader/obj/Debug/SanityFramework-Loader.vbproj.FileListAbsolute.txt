@@ -1,0 +1,4 @@
+d:\documents\visual studio 2017\Projects\PractiveLoader\PractiveLoader\obj\Debug\SanityFramework.Form1.resources
+d:\documents\visual studio 2017\Projects\PractiveLoader\PractiveLoader\obj\Debug\SanityFramework.Form2.resources
+d:\documents\visual studio 2017\Projects\PractiveLoader\PractiveLoader\obj\Debug\SanityFramework.Resources.resources
+d:\documents\visual studio 2017\Projects\PractiveLoader\PractiveLoader\obj\Debug\SanityFramework-Loader.vbproj.GenerateResource.Cache

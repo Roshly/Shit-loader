@@ -1,0 +1,11 @@
+d:\documents\visual studio 2017\Projects\PractiveLoader\PractiveLoader\obj\Debug\SanityFramework.Form1.resources
+d:\documents\visual studio 2017\Projects\PractiveLoader\PractiveLoader\obj\Debug\SanityFramework.Form2.resources
+d:\documents\visual studio 2017\Projects\PractiveLoader\PractiveLoader\obj\Debug\SanityFramework.Resources.resources
+d:\documents\visual studio 2017\Projects\PractiveLoader\PractiveLoader\obj\Debug\SanityFrameworkLoader.vbproj.GenerateResource.Cache
+d:\documents\visual studio 2017\Projects\PractiveLoader\PractiveLoader\bin\Debug\SanityFramework.exe.config
+d:\documents\visual studio 2017\Projects\PractiveLoader\PractiveLoader\bin\Debug\SanityFramework.exe
+d:\documents\visual studio 2017\Projects\PractiveLoader\PractiveLoader\bin\Debug\SanityFramework.pdb
+d:\documents\visual studio 2017\Projects\PractiveLoader\PractiveLoader\bin\Debug\SanityFramework.xml
+d:\documents\visual studio 2017\Projects\PractiveLoader\PractiveLoader\obj\Debug\SanityFramework.exe
+d:\documents\visual studio 2017\Projects\PractiveLoader\PractiveLoader\obj\Debug\SanityFramework.xml
+d:\documents\visual studio 2017\Projects\PractiveLoader\PractiveLoader\obj\Debug\SanityFramework.pdb
